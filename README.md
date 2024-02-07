@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Jorge from Valencia, Spain. Seeking knowledge on latest trends on Web Development.<br><br>- 🔨 Interested on Frontend Develoment Experience<br>- 📚 I'm currently learning React.js and Express.js<br>- ⚡ In my free time I like to fix computers and build custom keyboards<br>- 🎓 4-year University Degree on  Information Technology (UPV)</p>
+<p align="left">I'm Jorge from Valencia, Spain. Seeking knowledge on latest trends on Web Development.<br><br>- 🔨 Interested on Frontend Develoment Experience<br>- 📚 I'm currently learning React.js and Express.js<br>- ⚡ In my free time I like to fix computers and build custom keyboards<br>- 🎓 4-year UPV University Degree on  Information Technology (IT)</p>
 
 ###
 
@@ -61,9 +61,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PetiSui&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/PetiSui/PetiSui/output/snake.svg" alt="Snake animation" />
-
-###
