@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Jorge from Valencia, Spain. Seeking knowledge on latest trends on Web Development.<br><br>- 🔨 Interested on Frontend Develoment Experience<br>- 📚 I'm currently learning React.js and Express.js<br>- ⚡ In my free time I like to fix computers and build custom keyboards<br>- 🎓 4-year UPV University Degree on  Information Technology (IT)</p>
+<p align="left">I'm Jorge from Valencia, Spain. Seeking knowledge on latest trends on Web Development.<br><br>- 🔨 Interested on Frontend Develoment Experience<br>- 📚 I'm currently learning React.js, Express.js & MongoDB<br>- ⚡ In my free time I like to fix computers and build custom keyboards<br>- 🎓 4-year UPV University Degree on  Information Technology (IT)</p>
 
 ###
 
