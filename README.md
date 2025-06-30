@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Jorge from Valencia, Spain. Seeking knowledge on latest trends on Web Development.<br><br>- 🔨 Interested on Frontend Develoment Experience<br>- 📚 I'm currently learning React.js, Express.js & MongoDB<br>- ⚡ In my free time I like to fix computers and build custom keyboards<br>- 🎓 4-year UPV University Degree on  Information Technology (IT)</p>
+<p align="left">I'm Jorge from Valencia, Spain. Seeking knowledge on latest trends on Web Development.<br><br>- 🔨 Interested on Frontend Develoment Experience<br>- 📚 Currently learning React.js, Express.js & MongoDB<br>- ⚡ In my free time I like to fix computers and build custom keyboards<br>- 🎓 4-year UPV University Degree on Computer Engineering (IT)</p>
 
 ###
 
@@ -35,9 +35,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
@@ -49,9 +55,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
